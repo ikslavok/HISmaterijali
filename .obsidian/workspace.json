@@ -11,11 +11,28 @@
             "id": "86c3564ac20bd194",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DEVLOG.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0e81db7c6f28fe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vestine - udzbenici/Izvidjaci/test.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vestine - zahtevi/Poletarci/pdf/Award Book (Poletarci).pdf",
+                "file": "Vestine - udzbenici/Izvidjaci/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vestine - zahtevi/Poletarci/pdf/Award Book (Poletarci).pdf",
+                "file": "Vestine - udzbenici/Izvidjaci/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vestine - zahtevi/Poletarci/pdf/Award Book (Poletarci).pdf"
+                "file": "Vestine - udzbenici/Izvidjaci/test.md"
               }
             }
           }
@@ -132,11 +149,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "13b291fbe089e07a",
+  "active": "f0e81db7c6f28fe3",
   "lastOpenFiles": [
+    "DEVLOG.md",
+    "Vestine - zahtevi/Poletarci/pdf/Award Book (Poletarci).pdf",
     "Vestine - zahtevi/Izvidjaci/pdf/Adra.pdf",
     "Vestine - udzbenici/Poletarci/pdf/Biblija 1.pdf",
-    "Vestine - udzbenici/Izvidjaci/pdf/biciklizam - nivo 1.pdf",
-    "DEVLOG.md"
+    "Vestine - udzbenici/Izvidjaci/pdf/biciklizam - nivo 1.pdf"
   ]
 }
