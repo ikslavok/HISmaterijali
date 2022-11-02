@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f131162824a1a4be",
+        "id": "68fabff7ae602462",
         "type": "tabs",
         "children": [
           {
-            "id": "86c3564ac20bd194",
+            "id": "939c69c685c8801a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEVLOG.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0e81db7c6f28fe3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vestine - udzbenici/Izvidjaci/test.md",
+                "file": "Vestine - udzbenici/Izvidjaci/cvorologija.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vestine - udzbenici/Izvidjaci/test.md",
+                "file": "Vestine - udzbenici/Izvidjaci/cvorologija.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vestine - udzbenici/Izvidjaci/test.md",
+                "file": "Vestine - udzbenici/Izvidjaci/cvorologija.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vestine - udzbenici/Izvidjaci/test.md"
+                "file": "Vestine - udzbenici/Izvidjaci/cvorologija.md"
               }
             }
           }
@@ -149,12 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f0e81db7c6f28fe3",
+  "active": "939c69c685c8801a",
   "lastOpenFiles": [
-    "DEVLOG.md",
-    "Vestine - zahtevi/Poletarci/pdf/Award Book (Poletarci).pdf",
-    "Vestine - zahtevi/Izvidjaci/pdf/Adra.pdf",
-    "Vestine - udzbenici/Poletarci/pdf/Biblija 1.pdf",
-    "Vestine - udzbenici/Izvidjaci/pdf/biciklizam - nivo 1.pdf"
+    "Vestine - udzbenici/Izvidjaci/biciklizam - nivo 1.md",
+    "media/biciklizam.md",
+    "Vestine - udzbenici/Izvidjaci/cvorologija.md",
+    "Vestine - udzbenici/Izvidjaci/Fizicka kondicija.pdf",
+    "Izvidjaci/biciklizam - nivo 1.md",
+    "Izvidjaci/biciklizam - nivo 1.pdf",
+    "Izvidjaci/cvorologija.md",
+    "Izvidjaci/Kuvanje - nivo 2.md",
+    "Izvidjaci/komunikacije.md",
+    "Izvidjaci/hriscansko pripovedanje.md"
   ]
 }
