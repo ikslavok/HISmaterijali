@@ -1,6 +1,6 @@
 # Definisanje izraza
 
-![](media/cvorologija/media/image2.png)
+![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/cvorologija/media/image2.png)
 Na početku ovog veštarstva dobro je da se definišu
 izrazi, kako bi vaši izviđači imali rečnik različitih izraza koji se
 koriste. Reći im da „naprave vijugu" ili uzmu „fiksni deo" ne pravi
@@ -18,11 +18,11 @@ c\) **Fiksni deo** -- deo kanapa između radnog kraja i slobodnog kraja
 d\) **Pod -- vez** -- petlja napravljena tako da radni kraj kanapa
 prolatzi ispod fiksiranog dela.
 
-![](media/cvorologija/media/image3.jpeg)
+![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/cvorologija/media/image3.jpeg)
 e) **Nad -- vez** - petlja napravljena
 tako da radni kraj kanapa prolazi preko fiksnog dela.
 
-![](media/cvorologija/media/image4.png)f) **Okret** -- je deo čvora. Okreti se mogu vezati oko
+![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/cvorologija/media/image4.png)f) **Okret** -- je deo čvora. Okreti se mogu vezati oko
 predmeta, kroz prstenove ili oko samog fiksnog dela kanapa. Postoji više
 varijanti okretnih čvorova, koji se razlikuju po broju okreta kanapa.
 Okret kod **jednog okretnog čvora** se vrši jedanput. Tada se formira
@@ -37,7 +37,7 @@ h\) **Petlja** -- koristi se za vezivanje kanapa za gredu, prsten ili
 stub. Takođe se može koristiti za vezivanje jednog kanapa za drugi kao u
 lađarskoj petlji.
 
-![](media/cvorologija/media/image5.jpeg)i) **Upletka** -- formira se preplitanjem niti kanapa a
+![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/cvorologija/media/image5.jpeg)i) **Upletka** -- formira se preplitanjem niti kanapa a
 ne celog užeta. Zahteva više vremena ali je obično jači od drugih
 čvorova.
 
@@ -135,14 +135,14 @@ gde se prodaju kanapi.
 
 ## Upletka
 
-![](media/cvorologija/media/image6.jpeg)Koristi se za spajanje krajeva dva kanapa,
+![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/cvorologija/media/image6.jpeg)Koristi se za spajanje krajeva dva kanapa,
 a dobija se upleteni deo koji je duplo deblji od neupletenog dela.
 Kratka upletka ima više snage od bilo kod čvora za spajanje krajeva.
 Vezuje se istom tehnikom kao i očna upletka.
 
 ## Očna upletka
 
-![](media/cvorologija/media/image7.jpeg)**Primena:** Očnom upletkom se najbolje
+![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/cvorologija/media/image7.jpeg)**Primena:** Očnom upletkom se najbolje
 pravi trajna omča na višenitnom kanapu uplitanjem niti kanapa. Krajevi
 kanapa su upleteni u fiksni deo kanapa da bi se formirala omča. Kada se
 ova upletka pravila od konoplje ili pamuka, trostruko upletenje po niti
@@ -159,7 +159,7 @@ vežba kako bi svaki kraj zadržao svoju uvrnutost i kako bi lepo nalegao.
 
 ## Krajnja upletka
 
-![](media/cvorologija/media/image8.jpeg)Kod nje su niti na krajevima kanapa
+![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/cvorologija/media/image8.jpeg)Kod nje su niti na krajevima kanapa
 upletene direktno u kraj kanapa bez formiranja omče. Koristi se da se
 kanap ne bi razmotavao. Kraj kanapa sa upletkom je duplo deblji od
 ostatka kanapa. Počnite raspletanjem niti i vežite čvor „krunu". Zatim
@@ -169,7 +169,7 @@ upletite kanap u njega samog, kao kod kratke upletke.
 
 -   **Dupla kruna**
 
-![](media/cvorologija/media/image9.jpeg)**Primena:** dekorativni čvor vezan na
+![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/cvorologija/media/image9.jpeg)**Primena:** dekorativni čvor vezan na
 kraju položenog konopca da bi se sprečilo razmotavanje.
 
 **Vezivanje:**
@@ -180,7 +180,7 @@ kraju položenog konopca da bi se sprečilo razmotavanje.
 
 ### Završni čvor
 
-![](media/cvorologija/media/image10.jpeg)**Primena:** Ovo je najjednostavniji
+![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/cvorologija/media/image10.jpeg)**Primena:** Ovo je najjednostavniji
 završni čvor, koji sprečava razmotavanje. Pošto lako može da sklizne, ne
 bi trebalo ništa kačiti o njega. Obično je kanap od prirodnih vlakana
 obmotan koncem. Veličina kanapa diktira veličinu konca. Može bilo koji
@@ -201,7 +201,7 @@ ukupne širine gotovog čvora, kako bi ste zaokružili rad.
 
 -   **„Metju Voker"**
 
-![](media/cvorologija/media/image11.gif)**Primena:** Dekorativni čvor, sprečava
+![](image11.gif)**Primena:** Dekorativni čvor, sprečava
 razmotavanje. On se takođe može koristiti za povezivanje nekoliko
 razdvojenih kanapa.
 
@@ -214,7 +214,7 @@ kroz već formirane omče, kako bi se ostale niti zadržale u svojoj omči.
 
 # Napravi deo (2m) od tronitnog kanapa od domaćih materijala ili konca.
 
-![](media/cvorologija/media/image12.jpeg)Pravljenje kanapa zahteva jednostavan
+![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/cvorologija/media/image12.jpeg)Pravljenje kanapa zahteva jednostavan
 uređaj koji se lako pravi. Prvi alat (uvrtač) se koristi za uvrtanje,
 tri niti kanapa (uvrće svaki kanap pojedinačno u isto vreme). Uvrtač
 ćete napraviti tako što ćete zajedno izbušiti dve daske na tri mesta sa
@@ -229,7 +229,7 @@ pomeraju napred-nazad.
 Pošto će se kanapi uvrtati, oni će težiti da se i međusobno uvrćući
 spoje. Da bi se napravio kanap ovo mora da se kontroliše. To se postiče
 drugim alatom (razdvajač). Sastoji se od daske sa
-![](media/cvorologija/media/image13.jpeg)tri izbušene rupe, koje formiraju tačne
+![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/cvorologija/media/image13.jpeg)tri izbušene rupe, koje formiraju tačne
 jednakostraničnog trougla. Ove tačke moraju biti najmanje 15cm jedna od
 druge i dovoljno velike kako bi niti mogle da prođu kroz njih. Da
 napravite kanap, isecite tri dužine niti za trećinu duže od željene
@@ -249,13 +249,13 @@ Odsecite nekoliko centimetara konca sa obe strane kanapa.
 
 # Po sećanju vežite najmanje dvadesset sledećih čvorova i navedite njihove osnovne upotrebe.
 
--   ![](media/cvorologija/media/image14.jpeg)**Sidreni čvor** -- koristi se za
+-   ![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/cvorologija/media/image14.jpeg)**Sidreni čvor** -- koristi se za
     > vezivanje čvora za prsten. Vezivanje: Napravite dva okreta oko
     > zaprege, provucite radni kraj oko fiksnog dela i ispod dva
     > zaokreta. Završite još jednim polučvorom na slobodnom kraju u
     > istom smeru u kom ste provukli prošli čvor.
 
--   ![](media/cvorologija/media/image15.jpeg)**Mrtvi čvor** -- ne odvezuje se
+-   ![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/cvorologija/media/image15.jpeg)**Mrtvi čvor** -- ne odvezuje se
     > niti zateže omču ako se pravilno zaveže. Može se vezati oko struka
     > i koristiti za podizanje jer se omča neće zatezati pod teretom .
     > Vezivanje: napravite nad-vez sa slobodnim krajem prema sebi, nakon
@@ -264,14 +264,14 @@ Odsecite nekoliko centimetara konca sa obe strane kanapa.
     > omču. Zategnite čvor tako što ćete u isto vreme vući dva dela
     > omče, fiksni deo I slobodni kraj.
 
--   ![](media/cvorologija/media/image16.jpeg)**Dvostruki bulin** -- ovo obrazuje sigurnu
+-   ![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/cvorologija/media/image16.jpeg)**Dvostruki bulin** -- ovo obrazuje sigurnu
     > omču na sredini kanapa, koja se ne odvezuje. Vezivanje: Uzmite
     > središnji kraj kanapa I njime napravite omču. Provucite središnji
     > deo kroz omču. Malo raširite taj deo (prvi deo slike), toliko da
     > možete da prebacite tu novu omču preko čitavog čvora. Nastavite
     > tako dok se omča ne vrati na "vrat" čvora. Zategnite omču.
 
--   ![](media/cvorologija/media/image17.jpeg)**Alpski leptir** -- najjači planinarski čvor za
+-   ![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/cvorologija/media/image17.jpeg)**Alpski leptir** -- najjači planinarski čvor za
     > pričvršćivanje planinara za sredinu kanapa. Omča je zakočena za
     > karabinjer. Takođe se njime može izolovati oštećeni deo kanapa,
     > tako što taj deo postaje centar omče. Vezivanje: Kanap se dva puta
@@ -280,7 +280,7 @@ Odsecite nekoliko centimetara konca sa obe strane kanapa.
     > omča. Ovu omču prebacite u koren šake I zatim je provučete između
     > šake I namotanog kanapa prema prstima. Čvor zategnuti.
 
--   ![](media/cvorologija/media/image18.jpeg)**Jozefinski čvor** -- za spajanje dva kanapa.
+-   ![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/cvorologija/media/image18.jpeg)**Jozefinski čvor** -- za spajanje dva kanapa.
     > Prikladan je za težak kabl koji je suviše veliki i krut.
     > Neoštećuje se čak ni u vodi ili pod teretom, pogodan je za
     > dekorativne svrhe. Ovaj čvor se vezuje u formi kao na slici. Bez
@@ -293,23 +293,23 @@ Odsecite nekoliko centimetara konca sa obe strane kanapa.
     > okno, prsten ili kuku, a zatim slobodni drugi kraj napa provucite
     > kroz omču. Ponovo provucite drugi kraj kroz omču.
 
-![](media/cvorologija/media/image19.jpeg)
+![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/cvorologija/media/image19.jpeg)
 
--   ![](media/cvorologija/media/image20.jpeg)**Vrzina petlja** -- pogodna za brzo
+-   ![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/cvorologija/media/image20.jpeg)**Vrzina petlja** -- pogodna za brzo
     > i jednostavno pričvršćivanje kanapa oko šipke ili drveta.
     > Vezivanje: Slobodni kraj prevucite oko predmeta I preko fiksnog
     > dela. Slobodnim krajem prevucite još jedan krug oko predmeta.
     > Provucite slobodni kraj ispod drugog kruga, pa zatim zategnite
     > čvor povlačeći slobodni kraj I fiksni deo.
 
--   ![](media/cvorologija/media/image21.jpeg)**Stezni čvor** -- jedan od
+-   ![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/cvorologija/media/image21.jpeg)**Stezni čvor** -- jedan od
     > najefektivnijih čvorova, skoro ga je nemoguće odvezati kada se
     > zategne. Vezivanje: Napravite krug oko predmeta, prebacite
     > slobodni kraj preko fiksnog dela. Napravite još jedan krug oko
     > predmeta. Slobodni kraj prevući iznad fiksnog dela I provući ispod
     > prvog I drugog kruga.
 
--   ![](media/cvorologija/media/image22.jpeg)**Krunski čvor** -- sprečava krajeve da se
+-   ![](image22.jpeg)**Krunski čvor** -- sprečava krajeve da se
     > razmotavaju.Vežite stezni čvor ili zalepite trakom oko 8 cm od
     > kraja kanapa. Razmotajte kraj kanapa sve do čvora, povežite
     > krajeve niti trakom. Uzmite prvu nit I ostavljajući malu omču u
@@ -319,7 +319,7 @@ Odsecite nekoliko centimetara konca sa obe strane kanapa.
     > provucite kroz omču prve niti. Povlačeći sve tri niti zategnite
     > čvor
 
--   ![](media/cvorologija/media/image23.jpeg)**Dupli mrtvi čvor** -- je sigurnija
+-   ![](image23.jpeg)**Dupli mrtvi čvor** -- je sigurnija
     > verzija mrtvog čvora koji se koristi kao sigurna neklizeća omča.
     > Vezivanje: Napravite omču slobodnim krajem prelazeći preko fiksnog
     > dela. Napravite veću omču koja prolazi preko prve na isti način.
@@ -330,34 +330,34 @@ Odsecite nekoliko centimetara konca sa obe strane kanapa.
 -   **Dupli tkalački čvor** -- je jak čvor koji se koristi da se spoje
     > dva kanapa uglavnom različitih karakteristika. Vezivanje:
     > Napravite omču na većem kanapu i provucite
-    > ![](media/cvorologija/media/image24.jpeg)slobodni kraj manjeg kanapa kroz
+    > ![](image24.jpeg)slobodni kraj manjeg kanapa kroz
     > omču. Slobodnim krajem obmotajte omču I provucite ga između
     > fiksnog dela tanjeg kanapa I omče debljeg kanapa. Ponovo obmotajte
     > omču I provucite je između dva kanapa. Zategnite čvor. Vodite
     > računa da slobodni krajevi kanapa završe na istoj strani kako bi
     > čvor bio jači.
 
--   ![](media/cvorologija/media/image25.jpeg)**Osmica** -- je zaustavni čvor.
+-   ![](image25.jpeg)**Osmica** -- je zaustavni čvor.
     > Slobodni kraj prevucite preko fiksnog dela, pa ispod njega, a
     > zatim ga od gore provucite kroz omču. Zategnite čvor.
 
--   ![](media/cvorologija/media/image26.jpeg)**Ribarski čvor** -- se koristi za
+-   ![](image26.jpeg)**Ribarski čvor** -- se koristi za
     > spajanje dva kanapa. Vezivanje: Postavite dva kanapa jedan do
     > drugog. Vežite nad-vez prvog kanapa oko drugog. Zategnite. Drugim
     > kanapom vežite nadvez oko prvo kanapa.
 
--   ![](media/cvorologija/media/image27.jpeg)**Ribarska omča** -- čini omču na
+-   ![](image27.jpeg)**Ribarska omča** -- čini omču na
     > kraju kanapa koja ne proklizava. Vezivanje: Vezuje se kao ribarski
     > čvor, samo što se ne pravi od dva kanapa, nego se jedan duplira I
     > vezuje za samog sebe.
 
--   ![](media/cvorologija/media/image28.png)![](media/cvorologija/media/image29.png)**Halter** -- se koristi za vezivanje konja ili
+-   ![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/cvorologija/media/image28.png)![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/cvorologija/media/image29.png)**Halter** -- se koristi za vezivanje konja ili
     > čamca za drugi objekat. Odvezuje se povlačenjem jednog kraja
     > kanapa. Slobodni kraj preko fiksnog dela pa iza omče. Napravite
     > omču na radnom kraju koja se provlači ispred glavne omče pa u
     > drugu.
 
--   ![](media/cvorologija/media/image30.jpeg)![](media/cvorologija/media/image31.png)![](media/cvorologija/media/image32.png)**Lovački čvor** -- koristi se za
+-   ![](image30.jpeg)![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/cvorologija/media/image31.png)![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/cvorologija/media/image32.png)**Lovački čvor** -- koristi se za
     > spajanje dva kanapa. To su ustvari dva nad-veza koji se prožimaju.
     > Vezivanje: Na prvom kanapu napraviti omču I provući ga ispod
     > fiksnog dela. Drugi kanap provući kroz omču prvog od dole I
@@ -366,18 +366,18 @@ Odsecite nekoliko centimetara konca sa obe strane kanapa.
     > dole, a slobodni kraj drugog kanapa provući kroz omče odozdo na
     > gore. Zategnuti kanape.
 
--   ![](media/cvorologija/media/image33.jpeg)**Laso** -- Često se koristi kao
+-   ![](image33.jpeg)**Laso** -- Često se koristi kao
     > čvor za laso. Vezivanje: Napravite nad-vez na kraju kanapa.
     > Napravite drugi nad-vez na fiksnom delu kanapa I provucite prvi
     > čvor kroz njega.
 
--   ![](media/cvorologija/media/image34.png)**Kravlji čvor** -- Koristi se za
+-   ![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/cvorologija/media/image34.png)**Kravlji čvor** -- Koristi se za
     > vezivanje omče za neke prstenove ili neke druge objekte.
     > Vezivanje: Kada nisu dostupna oba kraja, vezuje se sa dva polu
     > čvora vezana u suprotnom smeru. Kada su dostupna oba kraja, onda
     > se provuče omča kroz prsten, a oba kraja se provuku kroz omču.
 
--   ![](media/cvorologija/media/image35.jpeg)**Zaprežni čvor** -- Koristi se kada
+-   ![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/cvorologija/media/image35.jpeg)**Zaprežni čvor** -- Koristi se kada
     > više ljudi treba da vuče neki ne kritični tovar. Jedan kraj kanapa
     > je vezan za teret a po jedan čvor za čoveka. Kada položite konopac
     > savijte ga u omču, provlačeći slobodni kraj ispod fiksnog dela.
@@ -385,7 +385,7 @@ Odsecite nekoliko centimetara konca sa obe strane kanapa.
     > Provucite donji deo omče kroz rupu između gornjeg dela I slobodnog
     > kraja. Ova omča mora biti zakačena za teret ili će se razmotati.
 
--   ![](media/cvorologija/media/image36.png)![](media/cvorologija/media/image37.jpeg)![](media/cvorologija/media/image38.jpeg)![](media/cvorologija/media/image39.jpeg)![](media/cvorologija/media/image40.jpeg)**Mlinarev čvor** -- je zatezni čvor
+-   ![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/cvorologija/media/image36.png)![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/cvorologija/media/image37.jpeg)![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/cvorologija/media/image38.jpeg)![](image39.jpeg)![](image40.jpeg)**Mlinarev čvor** -- je zatezni čvor
     > korišten za zatvaranje vreće ili torbe. Nekada su džakovi bili
     > puni zrnevlja pa otud i naziv mlinarev čvor. Postoji nekoliko
     > varijacija ovog čvora.
@@ -396,12 +396,12 @@ Odsecite nekoliko centimetara konca sa obe strane kanapa.
     > prateći fiksni kraj. Napravite omču od slobodnog kraja i kroz
     > njega provucite slobodni kraj. Zategnite.
 
--   ![](media/cvorologija/media/image41.jpeg)**Cevni čvor** -- za vuču I
+-   ![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/cvorologija/media/image41.jpeg)**Cevni čvor** -- za vuču I
     > podizanje cevastih predmeta. Napravite 4-5 zaokreta oko cevi pa
     > vratite radni kraj do slobodnog. Vežite dva polučvora u suprotnom
     > pravcu oko slobodnog kraja.
 
--   ![](media/cvorologija/media/image42.jpeg)**Prusik** -- koristi se pri
+-   ![](image42.jpeg)**Prusik** -- koristi se pri
     > penjanju u kanjonima, pećinama I na drugim mestima. To je kružni
     > čvor sa obimom od 20 -- 100cm, zavisno od namene. Ovakav čvor se
     > vezuje za drugi kanap pričvršćen iznad. Kada je pod pritiskom
@@ -416,7 +416,7 @@ Odsecite nekoliko centimetara konca sa obe strane kanapa.
     > penjete) I na kraju provucite roz omču. Bez tereta čvor lako klizi
     > niz kanap.
 
--   ![](media/cvorologija/media/image43.jpeg)**Skraćivaljka** -- se koristi za skraćivanje
+-   ![](image43.jpeg)**Skraćivaljka** -- se koristi za skraćivanje
     > kanapa. Ukoliko nije opterećen, ovaj čvor se lako razveže.
     > Vezivanje: Od sredine kanapa napravite kao latinično slovo "Z" I
     > zatim te tri prave stavite paralelno jedne do druge. Sa jedne
@@ -426,7 +426,7 @@ Odsecite nekoliko centimetara konca sa obe strane kanapa.
     > bezbedno skraćivati kanape koji nose kritične terete ovakvim
     > čvorom.
 
--   **Tkalački**![](media/cvorologija/media/image44.png) **čvor** -- je odličan za spajanje
+-   **Tkalački**![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/cvorologija/media/image44.png) **čvor** -- je odličan za spajanje
     > dva kanapa, posebno ako su različite debljine (veličine).
     > Vezivanje: Napravite malu omču na kraju šireg kanapa i provucite
     > slobodni kraj tanjeg kanapa kroz nju ulazeći odozdo. Zamotajte
@@ -434,14 +434,14 @@ Odsecite nekoliko centimetara konca sa obe strane kanapa.
     > njega. Provucite slobodni kraj tanjeg kanapa između debljeg I
     > tanjeg kanapa.
 
--   ![](media/cvorologija/media/image45.jpeg)**Zastavni čvor** -- se uglavnom
+-   ![](image45.jpeg)**Zastavni čvor** -- se uglavnom
     > koristi kao deo drugih čvorova kada se želi lako odvezati čvor.
     > Zateže se pod teretom, a lako se odvezuje povlačenjem slobodnog
     > kraja. Vezivanje: Vežite nad-vez, ali umesto da provučete slobodni
     > kraj kroz omču, provucite omču koju ste napravili od slobodnog
     > kraja.
 
--   ![](media/cvorologija/media/image46.gif)![](media/cvorologija/media/image47.jpeg)**Klizni polučvor** -- se koristi za
+-   ![](image46.gif)![](image47.jpeg)**Klizni polučvor** -- se koristi za
     > pričvršćivanje kanapa za štap, drvo ili nešto drugo. Ne može da se
     > koristi za kritične terete zato što se lako može razvezati kada se
     > jako povlači. Vezivanje: Počnite kao kod vrzine petlje, ali da
@@ -455,7 +455,7 @@ Odsecite nekoliko centimetara konca sa obe strane kanapa.
     > kraja između tankog I debljeg kanapa. Najmanji trzaj može odvezati
     > čvor.
 
--   ![](media/cvorologija/media/image48.jpeg)**Ambulatni čvor**- koristi se u
+-   ![](image48.jpeg)**Ambulatni čvor**- koristi se u
     > nautici, u prvoj pomoći I u mnogim drugim slučajevima. Vezivanje:
     > Provucite levi kraj preko, pa ispod desnog I onda ponovo preko
     > desnog. Sa ova dva kraja ponoviti isto, ali obrnuto. Na kraju
@@ -464,17 +464,17 @@ Odsecite nekoliko centimetara konca sa obe strane kanapa.
     > slučajevima ovaj čvor može da se pretvori u dva simetrična polu
     > čvora I sklizne sa kanapa.
 
--   ![](media/cvorologija/media/image49.jpeg)**Radnički čvor** -- (lučki) je
+-   ![](image49.jpeg)**Radnički čvor** -- (lučki) je
     > zaustavni čvor. Početak je kao kod osmice s tim što slobodni kraj
     > pravi dodatni zaokret pre nego što se kraj vrati kroz početnu
     > omču.
 
--   ![](media/cvorologija/media/image50.jpeg)**Zahvatni čvor** -- je jednostavni
+-   ![](image50.jpeg)**Zahvatni čvor** -- je jednostavni
     > čvor za stezanje. Vezivanje: Kao kod steznog čvora, osim što
     > krajevi izlaze sa spoljnje strane. To je ustvari prerađeni
     > nad-fiksni čvor.
 
--   ![](media/cvorologija/media/image51.jpeg)**Hiruški čvor** -- se koristi za
+-   ![](image51.jpeg)**Hiruški čvor** -- se koristi za
     > spajanje dva kanapa ili dva kraja istog kanapa. Njegova prednost
     > nad ambulantnim čvorom je što ostaje zategnutiji dok se vezuje.
     > Vezivanje: Sličan je ambulatnom s' tim što je prvi korak ponovljen
@@ -484,14 +484,14 @@ Odsecite nekoliko centimetara konca sa obe strane kanapa.
     > kanapa kako bi izdržao pritisak. Pritisak se održava povlačenjem
     > čvora da bi se prilagodila veličina omče. Koristi se za zatezanje
     > stranica šatora, za obezbeđivanje tereta na vozilima I za
-    > ![](media/cvorologija/media/image52.jpeg)mnoge druge prilike. Vezivanje:
+    > ![](image52.jpeg)mnoge druge prilike. Vezivanje:
     > Provucite slobodni kraj oko predmeta, vratite ga nazad uz slobodni
     > deo i napravite polučvor oko njega, zatim još jednom provucite
     > slobodni kraj unutar omče u istom pravcu kao kod prvog kruga. Sada
     > napravite još polu čvor sa slobodnim krajem oko fiksnog dela
     > kanapa, ali izvan omče. Zategnite čvor.
 
--   ![](media/cvorologija/media/image53.jpeg)**Cimermanov čvor** -- Koristi se za
+-   ![](image53.jpeg)**Cimermanov čvor** -- Koristi se za
     > tegljenje drveća ili nekih drugih objekata. Lako se veže I lako
     > razveže nakon korišćenja (čim se više ne vuče). Vezivanje:
     > Napravite omču na kanapu udaljenu za prečnik drveta koje ćete
@@ -499,7 +499,7 @@ Odsecite nekoliko centimetara konca sa obe strane kanapa.
     > za veštačke kanape). Omču naslonite na drvo a dužim krajem kanapa
     > obavijte drvo I provucite kroz omču.
 
--   ![](media/cvorologija/media/image54.jpeg)**Dva polučvora** -- je čvor koji je
+-   ![](image54.jpeg)**Dva polučvora** -- je čvor koji je
     > veoma pouzdan I koji se često koristi u nautici. Vezivanje:
     > Provucite slobodni kraj oko predmeta (ukoliko želite dodatnu
     > sigurnost I lakoću da vam se kanap ne pomera dok vezujete čvor,

@@ -1,4 +1,4 @@
-![](media/kosarka/media/image1.png)**Uslovi**
+![](Vestine%20-%20zahtevi/Zahtevi%20za%20izviđače/media/kosarka/media/image1.png)**Uslovi**
 
 1.  Pokaži znanje osnovnih pravila u košarci.
 

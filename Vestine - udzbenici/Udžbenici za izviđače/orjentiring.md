@@ -244,7 +244,7 @@ Znakove za objekte prikazujemo tačkastim (a) ili površinskim znakom (b).
 
 # 3. Prepoznaj delove busole
 
-![](media/orjentiring/media/image34.jpeg)Ručne busole su uglavnom slične, ali ima i
+![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/orjentiring/media/image34.jpeg)Ručne busole su uglavnom slične, ali ima i
 razlike. Prilikom polaganja ovog pitanja, izviđač treba da opiše delove
 busole po izboru. Ručna busola M53 je jedna od najboljih i
 najpouzdanijih busola koja se može naći u prodaji na našim prostorima,
@@ -276,7 +276,7 @@ Njeni delovi su:
 
 > b\) Srednji deo sastoji se iz okrugle kutije i kružne pločice.
 >
-> ![](media/orjentiring/media/image35.jpeg)Njegovi delovi su:
+> ![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/orjentiring/media/image35.jpeg)Njegovi delovi su:
 
 -   magnetna igla (sevrna strana je fluorescentno obelezena)
 
@@ -291,7 +291,7 @@ Njeni delovi su:
 
 -   providni poklopac kutije (staklo)
 
--   ![](media/orjentiring/media/image36.jpeg)linija na dnu kutije (koja olakšava da
+-   ![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/orjentiring/media/image36.jpeg)linija na dnu kutije (koja olakšava da
     se magnetna igla dovede u položaj sjever --- jug)
 
 > c\) Poklopac je metalan, a za osnovu je pričvršćen poluosovinama.
@@ -389,7 +389,7 @@ Njeni delovi su:
 >
 > Udaljenost je izmerena razdaljina između dve određene tačke.
 
-# ![](media/orjentiring/media/image37.jpeg)5. Pokaži kako se određuje azimut na zemljištu
+# ![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/orjentiring/media/image37.jpeg)5. Pokaži kako se određuje azimut na zemljištu
 
 -   poklopac busole se postavi pod uglom od oko 60 stepeni (prema
     osnovi);
@@ -493,7 +493,7 @@ Pronalaženje tačke na zemljištu čiji je azimut poznat:
 
 # 8. Pokaži kako se orjentiše na mapi uz pomoć ručne busole i izviđanja
 
--   ![](media/orjentiring/media/image38.jpeg)Postaviti busolu na mapu na ravnoj površini tako da
+-   ![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/orjentiring/media/image38.jpeg)Postaviti busolu na mapu na ravnoj površini tako da
     je stranica busole paralelna sa linijama na mapi koje pokazuju
     pravac sever-jug.
 

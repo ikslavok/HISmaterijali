@@ -1,4 +1,4 @@
-![](media/triatlon/media/image1.png)**Uslovi**
+![](Vestine%20-%20zahtevi/Zahtevi%20za%20izviđače/media/triatlon/media/image1.png)**Uslovi**
 
 1.  Iznesi tri biblijska principa I dva principa iz Duha Proroštva koji
     podržavaju rekreaciju.

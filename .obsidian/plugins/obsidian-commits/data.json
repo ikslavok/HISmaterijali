@@ -9,55 +9,55 @@
       "tags": 0,
       "links": 0
     },
-    "Vestine - udzbenici/Poletarci/Biblija 1.md": {
+    "pocetna.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "Vestine - udzbenici/Udžbenici za poletarce/Biblija 1.md": {
       "size": 2233,
       "tags": 0,
       "links": 0
     },
-    "Vestine - udzbenici/Poletarci/Muzicar.md": {
+    "Vestine - udzbenici/Udžbenici za poletarce/Muzicar.md": {
       "size": 1875,
       "tags": 0,
       "links": 0
     },
-    "Vestine - udzbenici/Poletarci/Plivac 1.md": {
+    "Vestine - udzbenici/Udžbenici za poletarce/Plivac 1.md": {
       "size": 2094,
       "tags": 0,
       "links": 0
     },
-    "Vestine - udzbenici/Poletarci/Plivac 2.md": {
+    "Vestine - udzbenici/Udžbenici za poletarce/Plivac 2.md": {
       "size": 1777,
       "tags": 0,
       "links": 0
     },
-    "Vestine - udzbenici/Poletarci/Prijatelj zivotinja.md": {
+    "Vestine - udzbenici/Udžbenici za poletarce/Prijatelj zivotinja.md": {
       "size": 1801,
       "tags": 0,
       "links": 0
     },
-    "Vestine - udzbenici/Poletarci/sakupljac.md": {
+    "Vestine - udzbenici/Udžbenici za poletarce/sakupljac.md": {
       "size": 2034,
       "tags": 0,
       "links": 0
     },
-    "Vestine - udzbenici/Poletarci/Specijalista za bezbednost.md": {
+    "Vestine - udzbenici/Udžbenici za poletarce/Specijalista za bezbednost.md": {
       "size": 2635,
       "tags": 0,
       "links": 0
     },
-    "Vestine - udzbenici/Poletarci/Specijalista za zdravlje.md": {
+    "Vestine - udzbenici/Udžbenici za poletarce/Specijalista za zdravlje.md": {
       "size": 3071,
-      "tags": 0,
-      "links": 0
-    },
-    "pocetna.md": {
-      "size": 0,
       "tags": 0,
       "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 368,
+      "Refactor": 376,
       "Create": 376,
       "Link": 67,
       "Expand": 208
@@ -65,7 +65,7 @@
   },
   "dailyCommits": {
     "/": {
-      "0": 0,
+      "0": 8,
       "1": 0,
       "2": 0,
       "3": 0,
@@ -96,7 +96,7 @@
       "Mon": 0,
       "Tue": 0,
       "Wed": 1019,
-      "Thu": 0,
+      "Thu": 8,
       "Fri": 0,
       "Sat": 0,
       "Sun": 0
@@ -211,7 +211,15 @@
         "<a class=\"internal-link\" href=\"Vestine - udzbenici/Izvidjaci/Reke i potoci.md\"> Reke i potoci </a>"
       ],
       "Renamed": [
-        "<a class=\"internal-link\" href=\"pocetna.md\"> pocetna </a>"
+        "<a class=\"internal-link\" href=\"pocetna.md\"> pocetna </a>",
+        "<a class=\"internal-link\" href=\"Vestine - udzbenici/Udžbenici za poletarce/Biblija 1.md\"> Biblija 1 </a>",
+        "<a class=\"internal-link\" href=\"Vestine - udzbenici/Udžbenici za poletarce/Muzicar.md\"> Muzicar </a>",
+        "<a class=\"internal-link\" href=\"Vestine - udzbenici/Udžbenici za poletarce/Plivac 1.md\"> Plivac 1 </a>",
+        "<a class=\"internal-link\" href=\"Vestine - udzbenici/Udžbenici za poletarce/Plivac 2.md\"> Plivac 2 </a>",
+        "<a class=\"internal-link\" href=\"Vestine - udzbenici/Udžbenici za poletarce/Prijatelj zivotinja.md\"> Prijatelj zivotinja </a>",
+        "<a class=\"internal-link\" href=\"Vestine - udzbenici/Udžbenici za poletarce/sakupljac.md\"> sakupljac </a>",
+        "<a class=\"internal-link\" href=\"Vestine - udzbenici/Udžbenici za poletarce/Specijalista za bezbednost.md\"> Specijalista za bezbednost </a>",
+        "<a class=\"internal-link\" href=\"Vestine - udzbenici/Udžbenici za poletarce/Specijalista za zdravlje.md\"> Specijalista za zdravlje </a>"
       ],
       "Tagged": [],
       "Refactored": [],

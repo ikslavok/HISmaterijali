@@ -7,7 +7,7 @@ a.  **Objasni kakav je bio svaki deo**
 
 > \- Dvorište: altar za žrtve, umivaonik
 >
-> ![](media/Svetinja/media/image2.jpeg)- Svetinja: sto sa beskvasnim hlebovima,
+> ![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/Svetinja/media/image2.jpeg)- Svetinja: sto sa beskvasnim hlebovima,
 > sedmokraki svećnjak i kadioni oltar
 >
 > \- Svetinja nad svetinjama: kovčeg zaveta, heruvimi, presto milosti,
@@ -36,7 +36,7 @@ b.  **Objasni šta je svaki deo nameštaja predstavljao**
 2.  **Nacrtaj skicu svetinje u pravim razmerama, dvorište i pozicije
     svog nameštaja. (Ne zaboravi da dodaš i oznake za strane sveta).**
 
-![](media/Svetinja/media/image3.png)Na skici ispod sever je na gore.
+![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/Svetinja/media/image3.png)Na skici ispod sever je na gore.
 
 3.  **Koliko pokrivala se nalazilo nad svetinjom?**
 

@@ -1,4 +1,4 @@
-![](media/komunikacije/media/image2.jpeg)**Morzeova azbuka** je metoda prenošenja
+![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/komunikacije/media/image2.jpeg)**Morzeova azbuka** je metoda prenošenja
 informacije, koristeći standardizovane nizove kratkih i dugih oznaka ili
 pulsova -- poznatijim kao "tačkama" i "crtama" - za slova, brojeve i
 znakove interpukcije. Prvobitno napravljen za električni telegraf
@@ -43,7 +43,7 @@ morzeova azbuka je sastavljena od šest elemenata:
 \* za početnike (koji mogu da pošalju do 10 reči u minuti) dužina
 kratke, srednje i dugačke pauze može da se odredi da bude duplo duža
 
-![](media/komunikacije/media/image3.gif)Oni koji uče Morzeovu azbuku se često
+![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/komunikacije/media/image3.gif)Oni koji uče Morzeovu azbuku se često
 podučavaju da razumeju slova i druge simbole u njihovoj punoj ciljnoj
 brzini, odnosno sa njihovim normalnim relativnim trajanjem tačaka, crta
 i pauza unutar svakog simbola za tu brzinu. Produžene pauze između
@@ -131,7 +131,7 @@ se dodaje, i tako dalje dok se ceo skup znakova ne usavrši.
   0                   **- - - - -**  Nula          Zero
   -----------------------------------------------------------------------
 
-![](media/komunikacije/media/image4.jpeg)Noviji sistem **semafor** zastavica
+![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/komunikacije/media/image4.jpeg)Noviji sistem **semafor** zastavica
 koristi dva kratka štapa sa kvadratnim zastavicama, koje zastavnik drži
 u različitim pozicijama da signalizira slova alfabeta i brojeve.
 Zastavnik drži štap u svakoj ruci i pruža svaku ruku u jednom od osam
@@ -149,23 +149,23 @@ položaju u seriji krugova.
 **Alfabetni redosled**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![](media/komunikacije/media/image5.png)Čekanje i pauza                            height="0.6980314960629921in"}Brojevi                                    height="0.6980314960629921in"}Pažnja                                     height="0.6980314960629921in"}Brisanje                                   height="0.6980314960629921in"}A / 1
+  ![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/komunikacije/media/image5.png)Čekanje i pauza                            height="0.6980314960629921in"}Brojevi                                    height="0.6980314960629921in"}Pažnja                                     height="0.6980314960629921in"}Brisanje                                   height="0.6980314960629921in"}A / 1
   ------------------------------------------------------------------------ ------------------------------------------------------------------------ ------------------------------------------------------------------------ ------------------------------------------------------------------------ ------------------------------------------------------------------------
-  ![](media/komunikacije/media/image10.png)B / 2                                      height="0.6980314960629921in"}C / 3                                      height="0.6980314960629921in"}D / 4                                      height="0.6980314960629921in"}E / 5                                      height="0.6980314960629921in"}F / 6
+  ![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/komunikacije/media/image10.png)B / 2                                      height="0.6980314960629921in"}C / 3                                      height="0.6980314960629921in"}D / 4                                      height="0.6980314960629921in"}E / 5                                      height="0.6980314960629921in"}F / 6
 
-  ![](media/komunikacije/media/image15.png)G / 7                                      height="0.6980314960629921in"}H / 8                                      height="0.6980314960629921in"}I / 9                                      height="0.6980314960629921in"}J / Slova                                  height="0.6980314960629921in"}K / 0
+  ![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/komunikacije/media/image15.png)G / 7                                      height="0.6980314960629921in"}H / 8                                      height="0.6980314960629921in"}I / 9                                      height="0.6980314960629921in"}J / Slova                                  height="0.6980314960629921in"}K / 0
 
-  ![](media/komunikacije/media/image20.png)L                                          height="0.6980314960629921in"}M                                          height="0.6980314960629921in"}N                                          height="0.6980314960629921in"}O                                          height="0.6980314960629921in"}P
+  ![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/komunikacije/media/image20.png)L                                          height="0.6980314960629921in"}M                                          height="0.6980314960629921in"}N                                          height="0.6980314960629921in"}O                                          height="0.6980314960629921in"}P
 
-  ![](media/komunikacije/media/image25.png)Q                                          height="0.6980314960629921in"}R                                          height="0.6980314960629921in"}S                                          height="0.6980314960629921in"}T                                          height="0.6980314960629921in"}U
+  ![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/komunikacije/media/image25.png)Q                                          height="0.6980314960629921in"}R                                          height="0.6980314960629921in"}S                                          height="0.6980314960629921in"}T                                          height="0.6980314960629921in"}U
 
-  ![](media/komunikacije/media/image30.png)V                                          height="0.6980314960629921in"}W                                          height="0.6980314960629921in"}X                                          height="0.6980314960629921in"}Y                                          height="0.6980314960629921in"}Z
+  ![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/komunikacije/media/image30.png)V                                          height="0.6980314960629921in"}W                                          height="0.6980314960629921in"}X                                          height="0.6980314960629921in"}Y                                          height="0.6980314960629921in"}Z
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Po položaju**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![](media/komunikacije/media/image9.png)A / 1                                     height="0.6980314960629921in"}B / 2                                      height="0.6980314960629921in"}C / 3                                      height="0.6980314960629921in"}D / 4                                      height="0.6980314960629921in"}E / 5                                      height="0.6980314960629921in"}F / 6                                      height="0.6979166666666666in"}![](media/komunikacije/media/image15.png)G / 7
+  ![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/komunikacije/media/image9.png)A / 1                                     height="0.6980314960629921in"}B / 2                                      height="0.6980314960629921in"}C / 3                                      height="0.6980314960629921in"}D / 4                                      height="0.6980314960629921in"}E / 5                                      height="0.6980314960629921in"}F / 6                                      height="0.6979166666666666in"}![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/komunikacije/media/image15.png)G / 7
   ----------------------------------------------------------------------- ------------------------------------------------------------------------ ------------------------------------------------------------------------ ------------------------------------------------------------------------ ------------------------------------------------------------------------ ------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------
                                                                           ![](media/komunikacije/media/image16.png)H / 8                                      height="0.6980314960629921in"}I / 9                                      height="0.6980314960629921in"}K / 0                                      height="0.6980314960629921in"}L                                          height="0.6980314960629921in"}M                                          
 

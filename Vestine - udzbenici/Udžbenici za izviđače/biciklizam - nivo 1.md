@@ -1,11 +1,11 @@
 # Kaži naziv i objasni uloge različitih delova bicikla.
 
-![[media/biciklizam - nivo 1/media/image2.gif]]
+![[image2.gif]]
 Ispravni naziv ovog dvotočkaša jeste „bicikl" a
 množina „bicikli". Neispravno je reći „bicikla", „biciklo", „biciklovi"
 i druge kovanice.
 
-![[media/biciklizam - nivo 1/media/image3.gif]]
+![[Vestine - udzbenici/Udžbenici za izviđače/media/biciklizam - nivo 1/media/image3.gif]]
 
 # Popravi probušenu gumu od bicikla.
 
