@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "cd617c7ea422dbab",
+    "type": "split",
+    "children": [
+      {
+        "id": "f131162824a1a4be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86c3564ac20bd194",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5a980907ca18b75",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fded2f4225c11f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13b291fbe089e07a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a599f27cbf3b1cab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b2e662211a6a3098",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "db36a54d5dded9b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "654e8e37ddb4055b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34fab8076e04c662",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vestine - zahtevi/Poletarci/pdf/Award Book (Poletarci).pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a501714a14ad820",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vestine - zahtevi/Poletarci/pdf/Award Book (Poletarci).pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e7deb632d0a77ab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7e97215d6a986b5e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vestine - zahtevi/Poletarci/pdf/Award Book (Poletarci).pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "13b291fbe089e07a",
+  "lastOpenFiles": [
+    "Vestine - zahtevi/Izvidjaci/pdf/Adra.pdf",
+    "Vestine - udzbenici/Poletarci/pdf/Biblija 1.pdf",
+    "Vestine - udzbenici/Izvidjaci/pdf/biciklizam - nivo 1.pdf",
+    "DEVLOG.md"
+  ]
+}
