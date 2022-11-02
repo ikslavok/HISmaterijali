@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vestine - udzbenici/Izvidjaci/cvorologija.md",
+                "file": "pocetna.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vestine - udzbenici/Izvidjaci/cvorologija.md",
+                "file": "pocetna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vestine - udzbenici/Izvidjaci/cvorologija.md",
+                "file": "pocetna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vestine - udzbenici/Izvidjaci/cvorologija.md"
+                "file": "pocetna.md"
               }
             }
           }
@@ -138,9 +138,9 @@
   },
   "active": "939c69c685c8801a",
   "lastOpenFiles": [
+    "Vestine - udzbenici/Izvidjaci/cvorologija.md",
     "Vestine - udzbenici/Izvidjaci/biciklizam - nivo 1.md",
     "media/biciklizam.md",
-    "Vestine - udzbenici/Izvidjaci/cvorologija.md",
     "Vestine - udzbenici/Izvidjaci/Fizicka kondicija.pdf",
     "Izvidjaci/biciklizam - nivo 1.md",
     "Izvidjaci/biciklizam - nivo 1.pdf",
