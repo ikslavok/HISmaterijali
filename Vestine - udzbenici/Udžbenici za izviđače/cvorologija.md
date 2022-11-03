@@ -1,3 +1,8 @@
+---
+alias: 
+- čvorologija
+- čvorologiju
+---
 # Definisanje izraza
 
 ![](Vestine%20-%20udzbenici/Udžbenici%20za%20izviđače/media/cvorologija/media/image2.png)
