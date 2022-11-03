@@ -3,7 +3,7 @@ command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || tr
 publish = "public"
 
 [build.environment]
-LANDING_BUTTON = "Idi na sadržaj👆"
+LANDING_BUTTON = "Idi na početnu👆"
 LANDING_DESCRIPTION = "Pretraži, otvori belešku iz mreže koja je prikazana u pozadini ili idi na sadržaj."
 LANDING_PAGE = "pocetna"
 LANDING_TITLE = "Dobrodošao u HIS bazu znanja 👋"
