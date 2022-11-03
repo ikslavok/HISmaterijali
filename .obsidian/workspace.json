@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pocetna.md",
+                "file": "DEVLOG.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pocetna.md",
+                "file": "DEVLOG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pocetna.md",
+                "file": "DEVLOG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pocetna.md"
+                "file": "DEVLOG.md"
               }
             }
           }
@@ -136,8 +136,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "13b291fbe089e07a",
+  "active": "939c69c685c8801a",
   "lastOpenFiles": [
+    "pocetna.md",
     "Vestine - udzbenici/Udžbenici za izviđače/cvorologija.md",
     "Vestine - udzbenici/Udžbenici za izviđače/biciklizam - nivo 1.md",
     "media/biciklizam.md",
@@ -146,7 +147,6 @@
     "Izvidjaci/biciklizam - nivo 1.pdf",
     "Izvidjaci/cvorologija.md",
     "Izvidjaci/Kuvanje - nivo 2.md",
-    "Izvidjaci/komunikacije.md",
-    "Izvidjaci/hriscansko pripovedanje.md"
+    "Izvidjaci/komunikacije.md"
   ]
 }
